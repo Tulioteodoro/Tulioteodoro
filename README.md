@@ -2,7 +2,7 @@
 
 💻 Faço pós em Ciência de Dados pela PUCRS.
 
-✅ Desenvolvendo habilidade em Python, R, Estatística, Html e CSS3.
+✅ Desenvolvendo skills em Python, R, Estatística, Html e CSS3.
 
 💗 Praticante de Jiu jitsu, apaixonado pela minha esposa, meu filho e pela vida!
 

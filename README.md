@@ -1,10 +1,39 @@
 ### Fala pessoal! Me chamo Túlio Teodoro! ###
 
-💻 Faço pós em Ciência de Dados pela PUCRS.
+💻 Formado em Redes de Computadores pela Estácio 
 
-✅ Desenvolvendo skills em Python, R, Estatística, Html e CSS3.
+💻 Pós-Graduando em Ciência de Dados pela PUCRS.
 
-💗 Praticante de Jiu jitsu, apaixonado pela minha esposa, meu filho e pela vida!
+✅ Software Skills:
+ - Python (Numpy, Pandas, Matplotlib, Sickit-learn);
+ - Zabbix e UNMS Ubiquiti;
+ - MySQL;
+ - PostgreSQL
+- Windows Server
+- Jupyter Notebook
+- Google Colab
+
+
+✅ Soft Skills:
+
+- Comunicação;
+- Proatividade;
+- Ética no trabalho;
+- Pensamento analítico;
+- Trabalho em equipe.
+
+🌱 Study skills:
+
+- Banco de dados não relacionais;
+- Tableau;
+- Power Bi;
+- Pentaho.
+- Estatística Inferencial
+
+
+
+✉ tulioredes@gmail.com
+📳 +55 79 98800-1120
 
 
 <div align="left">

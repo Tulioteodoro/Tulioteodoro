@@ -4,9 +4,6 @@
 
 💻 Formado em Redes de Computadores pela Estácio 
 
-💻 Pós-Graduando em Ciência de Dados pela PUCRS.
-
-
 
 ✅ Software Skills:
  - Python (Numpy, Pandas, Matplotlib, Sickit-learn);

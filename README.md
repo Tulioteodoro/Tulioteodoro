@@ -5,33 +5,6 @@
 💻 Formado em Redes de Computadores pela Estácio 
 
 
-✅ Software Skills:
- - Python (Numpy, Pandas, Matplotlib, Sickit-learn);
- - Zabbix e UNMS Ubiquiti;
- - MySQL;
- - PostgreSQL
-- Windows Server
-- Jupyter Notebook
-- Google Colab
-
-
-✅ Soft Skills:
-
-- Comunicação;
-- Proatividade;
-- Ética no trabalho;
-- Pensamento analítico;
-- Trabalho em equipe.
-
-🌱 Study skills:
-
-- Banco de dados não relacionais;
-- Tableau;
-- Power Bi;
-- Pentaho.
-- Estatística Inferencial
-
-
 
 ✉ tulioredes@gmail.com
 
